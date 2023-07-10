@@ -1,0 +1,4 @@
+Sample_ID,Gene,Expression_Level,Mutation_Status
+Sample1,GeneA,10.5,Wildtype
+Sample2,GeneB,8.2,Mutation
+Sample3,GeneC,12.7,Wildtype
